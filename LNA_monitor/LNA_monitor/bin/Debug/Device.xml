@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Serial>
+  <COM1>
+    <Baurate>9600</Baurate>
+    <DataSize>8</DataSize>
+    <Parity>None</Parity>
+  </COM1>
+  <COM2>
+    <Baurate>57600</Baurate>
+    <DataSize>8</DataSize>
+    <Parity>None</Parity>
+  </COM2>
+  <COM3>
+    <Baurate>115200</Baurate>
+    <DataSize>8</DataSize>
+    <Parity>None</Parity>
+  </COM3>
+  <COM10>
+    <Baurate>9600</Baurate>
+    <DataSize>8</DataSize>
+    <Parity>None</Parity>
+  </COM10>
+  <COM11>
+    <Baurate>57600</Baurate>
+    <DataSize>8</DataSize>
+    <Parity>None</Parity>
+  </COM11>
+  <COM6>
+    <Baurate>115200</Baurate>
+    <DataSize>8</DataSize>
+    <Parity>None</Parity>
+  </COM6>  
+</Serial>
