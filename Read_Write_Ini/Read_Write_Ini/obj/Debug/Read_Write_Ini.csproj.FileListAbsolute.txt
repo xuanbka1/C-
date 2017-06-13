@@ -1,0 +1,9 @@
+H:\Project Xuan\Read_Write_inifile\Read_Write_Ini\Read_Write_Ini\bin\Debug\Read_Write_Ini.exe.config
+H:\Project Xuan\Read_Write_inifile\Read_Write_Ini\Read_Write_Ini\bin\Debug\Read_Write_Ini.exe
+H:\Project Xuan\Read_Write_inifile\Read_Write_Ini\Read_Write_Ini\bin\Debug\Read_Write_Ini.pdb
+H:\Project Xuan\Read_Write_inifile\Read_Write_Ini\Read_Write_Ini\obj\Debug\Read_Write_Ini.csprojResolveAssemblyReference.cache
+H:\Project Xuan\Read_Write_inifile\Read_Write_Ini\Read_Write_Ini\obj\Debug\Read_Write_Ini.Form1.resources
+H:\Project Xuan\Read_Write_inifile\Read_Write_Ini\Read_Write_Ini\obj\Debug\Read_Write_Ini.Properties.Resources.resources
+H:\Project Xuan\Read_Write_inifile\Read_Write_Ini\Read_Write_Ini\obj\Debug\Read_Write_Ini.csproj.GenerateResource.Cache
+H:\Project Xuan\Read_Write_inifile\Read_Write_Ini\Read_Write_Ini\obj\Debug\Read_Write_Ini.exe
+H:\Project Xuan\Read_Write_inifile\Read_Write_Ini\Read_Write_Ini\obj\Debug\Read_Write_Ini.pdb
